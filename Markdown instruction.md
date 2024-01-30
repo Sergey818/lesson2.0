@@ -16,3 +16,15 @@
 ## Цитаты
 
 ## Заключение
+
+
++
++````sh
++hallo
++``````
++
++Создать папу, 
++git init
++создать файл
++git add <file>
++git commit -m "sochranenie"
