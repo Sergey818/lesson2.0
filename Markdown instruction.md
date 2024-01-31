@@ -47,6 +47,8 @@ git commit -m "sochranenie"
 
 git branch -d text_formating - удаление ветки
 
+git log --graph  показывает коммиты с графикой
+
 
 
 
