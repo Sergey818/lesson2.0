@@ -30,15 +30,15 @@ Hallo WorlD!
 ## Заключение
 
 
-+
-+````sh
-+hallo
-+``````
-+
-+Создать папу, 
-+git init
-+создать файл
-+git add <file>
-+git commit -m "sochranenie"
+
+````sh
+hallo
+``````
+
+Создать папу, 
+git init
+создать файл
+git add <file>
+git commit -m "sochranenie"
 
 git branch -d text_formating - удаление ветки
