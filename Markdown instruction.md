@@ -9,6 +9,8 @@
 
 * список 1
 * список 2
+
+
 1. список 1
 2. список 2
 
@@ -23,15 +25,15 @@
 ## Заключение
 
 
-+
-+````sh
-+hallo
-+``````
-+
-+Создать папу, 
-+git init
-+создать файл
-+git add <file>
-+git commit -m "sochranenie"
+
+````sh
+hallo
+``````
+
+Создать папу, 
+git init
+создать файл
+git add <file>
+git commit -m "sochranenie"
 
 git branch -d text_formating - удаление ветки
