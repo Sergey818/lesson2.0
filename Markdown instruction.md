@@ -3,22 +3,44 @@ hallo
 ``````
 
 Создать папkу, 
-git init инициализация файла
+* git init   инициализация файла
 
-git add <file>
+Вносим изменение в файл и сохраняем
+* ctrl + s
 
-git commit -m "sochranenie"
+затем 
+
+* git add <file> добавить в индекс
+
+затем
+
+* git commit -m "sochranenie"
+
+файл сохранён с комментарием о конкретных действиях которые мы совершили. "Комментарий" прописываем в ковычках.
 
 
-git branch <имя ветки> создание ветки
+* git branch <branch_name> создание ветки
 
 
-git branch -d text_formating - удаление ветки
+* git branch -d text_formating - удаление ветки
+
+* Git branch - показать все ветки
+
+* git checkout <branch_name>   -  переход на указанную ветку.
+
+* git log --graph  показывает коммиты с графикой
+
+* git log --oneline   -  все коммиты в списке
 
 
-git log --graph  показывает коммиты с графикой
 
 
+Работая в ветке в которой мы находимся - все изменения касаются только этой ветки. остальные ветки остаются прежними.
+
+*in git bash*
+
+Litva@GoD MINGW64 ~/Desktop/lesson2.0 (master)
+* $ git merge newTxt    -    находясь на ветке master прописываем эту команду (GIT MERGE) и ветку которую хотим слить (newTxt) с веткой MASTER (ЧИСТОВИК).
 
 
 
