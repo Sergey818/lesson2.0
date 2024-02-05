@@ -1,6 +1,7 @@
 ````sh
 hallo
 ``````
+![Bender](bender.png)
 
 Создать папkу, 
 * git init   инициализация файла
