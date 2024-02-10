@@ -27,6 +27,7 @@ Hallo WorlD!
 ## Ссылки
 
 Работа с GitHub.
+Работа в GitHub online.
 
 
 ## Работа с таблицами
